@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham kaura</h1>
 <h3 align="center">I'm currently learning web development skills.</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvNTFmZ2NheGR3MWpxY2dleHh3dHg2am5penlpbHFmZXR4bXoycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" width="480" height="480"  class="giphy-embed" ></img>
 
 - 🌱 I’m currently learning **React & Node**
 
